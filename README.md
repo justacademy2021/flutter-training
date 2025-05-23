@@ -1,20 +1,37 @@
-# 🚀 JustAcademy - Android Development Course (Bangalore)
+# Flutter Training - JustAcademy
 
-📅 **New Batch Starts:** 1st June  
-🏫 **Mode:** Online + Offline (Bangalore)  
-🎓 **Training | Projects | Placement**
+Create beautiful, cross-platform mobile apps with our **Flutter Training** course.
 
-## 📘 Course Highlights:
-- Android using Kotlin/Java
-- Firebase & SQLite
-- Live Project Development
-- Resume Building & Interview Prep
-- 100% Placement Assistance
-
-## 📍 Contact
-📞 WhatsApp: +91 9987184296  
-🌐 [Visit Website](https://yourusername.github.io/justacademy-android-course/)
+[Course Details & Enrollment](https://www.justacademy.co/course-detail/flutter-training)
 
 ---
 
-**Enroll now and become a certified Android Developer!**
+## What You'll Learn
+
+- Dart language fundamentals  
+- Flutter framework basics  
+- Building responsive UIs  
+- State management techniques  
+- Working with APIs & Firebase  
+- Publishing apps for Android and iOS  
+
+---
+
+## Why Choose JustAcademy?
+
+✅ Expert trainers with real-world experience  
+✅ Hands-on training with live projects  
+✅ Flexible batch timings (online & offline options)  
+✅ 100% Placement Assistance & Interview Preparation  
+✅ Certification upon course completion  
+
+---
+
+## Duration & Format
+
+- 6 Weeks (Flexible schedules)  
+- Online & Offline batches available  
+
+---
+
+Join now to become a Flutter app developer!
