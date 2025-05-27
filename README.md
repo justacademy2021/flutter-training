@@ -1,37 +1,33 @@
-# Flutter Training - JustAcademy
 
-Create beautiful, cross-platform mobile apps with our **Flutter Training** course.
 
-[Course Details & Enrollment](https://www.justacademy.co/course-detail/flutter-training)
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+-->
 
----
+## Step 2: Configure your site
 
-## What You'll Learn
+_You turned on GitHub Pages! :tada:_
 
-- Dart language fundamentals  
-- Flutter framework basics  
-- Building responsive UIs  
-- State management techniques  
-- Working with APIs & Firebase  
-- Publishing apps for Android and iOS  
+We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
----
+Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-## Why Choose JustAcademy?
+We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
-✅ Expert trainers with real-world experience  
-✅ Hands-on training with live projects  
-✅ Flexible batch timings (online & offline options)  
-✅ 100% Placement Assistance & Interview Preparation  
-✅ Certification upon course completion  
+### :keyboard: Activity: Configure your site
 
----
+1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+   ```yml
+   theme: minima
+   ```
+1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. Commit your changes.
+1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-## Duration & Format
 
-- 6 Weeks (Flexible schedules)  
-- Online & Offline batches available  
-
----
-
-Join now to become a Flutter app developer!
